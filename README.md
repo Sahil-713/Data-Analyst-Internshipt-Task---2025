@@ -25,7 +25,7 @@ I worked with the **Mall Customer Segmentation** dataset, which contains details
 ## ✅ Tools Used  
 - Python  
 - Pandas Library  
-- Jupyter Notebook (optional)
+- Jupyter Notebook 
 
 ## 📁 Dataset Source  
 [🔗 Mall Customer Segmentation Data (Kaggle)](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
